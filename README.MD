@@ -6,4 +6,4 @@ A ideia do projeto era a criação de um fluxo simples para assistente de planej
 
 ## Link para o JSON criado para o projeto
 
-JSON[./Projeto/Projeto-Assistente-Delivery.json]
+- [JSON](./Projeto/Projeto-Assistente-Delivery.json)
